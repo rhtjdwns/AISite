@@ -22,18 +22,11 @@ AISite/
 └── README.md       # 프로젝트 문서
 ```
 
-## 사용 방법
+## 스크린 샷
+<img width="1379" height="753" alt="image" src="https://github.com/user-attachments/assets/abc48c39-c28d-4bf4-bb58-9c6d77d9366f" />
+<img width="1382" height="759" alt="image" src="https://github.com/user-attachments/assets/e3e4595e-7f36-4e20-9302-66fe9e34c955" />
+<img width="1392" height="758" alt="image" src="https://github.com/user-attachments/assets/d9fc48fb-7b2b-4ae2-9b76-ce8eab5d8e3f" />
 
-1. 모든 파일을 같은 폴더에 저장합니다.
-2. `index.html` 파일을 웹 브라우저에서 엽니다.
-3. 또는 로컬 서버를 실행하여 테스트합니다:
-   ```bash
-   # Python 3 사용 시
-   python -m http.server 8000
-   
-   # Node.js 사용 시
-   npx http-server
-   ```
 
 ## 주요 기능
 
